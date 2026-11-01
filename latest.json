@@ -1,1 +1,12 @@
-{"version":"1.0.0","notes":"最初の公開版","win":{"url":"","sha256":""},"mac":{"url":"","sha256":""}}
+{
+  "version": "1.0.0",
+  "notes": "最初の公開版",
+  "win": {
+    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.0/DopaTimer.exe",
+    "sha256": "5310ed3b2ace6eb16c892040b5963542ddf5706b87986694fb50caa7c9cd4fe0"
+  },
+  "mac": {
+    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.0/DopaTimer-app.zip",
+    "sha256": "eba27d4d70677789972abf385defa5da8e3f74800ca324890bd8620f3b0ed677"
+  }
+}
