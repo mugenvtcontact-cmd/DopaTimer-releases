@@ -1,12 +1,12 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "notes": "自動公開",
   "win": {
-    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.4/DopaTimer.exe",
-    "sha256": "2f9d0bc060d3ec8dd8521106c8b883a37a785a8f191636462407a49265700fce"
+    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.5/DopaTimer.exe",
+    "sha256": "2abf8b82b4eda646127ffc1495014366965ff51b377f5c8cc0f968a5e5f9922d"
   },
   "mac": {
-    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.4/DopaTimer-app.zip",
-    "sha256": "57547fe9ffa46b7b724abd9aabe8cc5a24be2b5ba67307a05c240588e5504f29"
+    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.5/DopaTimer-app.zip",
+    "sha256": "37281d371346e66f5bb818e5c1dde46b94df42e50665535d54e04b67de3b432e"
   }
 }
