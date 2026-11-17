@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "notes": "v1.0.3 以前の Windows 版には案内しない（win は空のまま）",
   "win": null,
   "mac": {
-    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.5/DopaTimer-app.zip",
-    "sha256": "37281d371346e66f5bb818e5c1dde46b94df42e50665535d54e04b67de3b432e"
+    "url": "https://github.com/mugenvtcontact-cmd/DopaTimer-releases/releases/download/v1.0.6/DopaTimer-app.zip",
+    "sha256": "07731dd061aebcd8cc9dadddf03bc562f18df6f6e3dcf1de62258a248df08a5f"
   }
 }
